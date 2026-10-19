@@ -1115,6 +1115,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  coyoteTime: 0.1
 --- !u!1 &2052413656
 GameObject:
   m_ObjectHideFlags: 0
