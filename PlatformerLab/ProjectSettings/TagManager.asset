@@ -14,7 +14,7 @@ TagManager:
   - Ground
   - Player
   - Collectible
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -42,16 +42,16 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 1509119319
+    uniqueID: 2535689119
     locked: 0
   - name: Level
-    uniqueID: 661291381
+    uniqueID: 12376281
     locked: 0
   - name: Characters
-    uniqueID: 3042442997
+    uniqueID: 4153328831
     locked: 0
   - name: Foreground
-    uniqueID: 4061849831
+    uniqueID: 1934145745
     locked: 0
   m_RenderingLayers:
   - Default
